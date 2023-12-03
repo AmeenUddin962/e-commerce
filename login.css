@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.amazon_logo {
+    margin-left: 180px;
+    margin-top: 5px;
+}
+
+.sign_in {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.A-1 {
+    margin-left: 60px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+.input-email {
+    margin-top: 6px;
+    margin-left: 60px;
+    width: 323px;
+    height: 25px;
+}
+
+.btn_con {
+    width: 330px;
+    height: 30px;
+    background-color: #f2eb1c;
+    margin-left: 57px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.p_1 {
+    font-size: 11px;
+    color: black;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    word-spacing: 2px;
+}
+
+.a_4 {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 15px;
+}
+
+.p_2 {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    margin-left: 58px;
+}
+
+.a_5 {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    word-spacing: 3px;
+    margin-left: 56px;
+}
+
+.f_1 {
+    width: 400px;
+    margin-left: 20px;
+    height: 350px;
+    border-color: rgb(245, 239, 239);
+}
+
+.a_3 {
+    margin-left: 150px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+.a_2 {
+    width: 400px;
+    margin-left: 20px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid rgb(175, 173, 173);
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin-top: 20px;
+    font-size: 13px;
+}
+.l_1{
+    font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+font-size: 12px;
+margin-left: 95px;
+
+}
+.l_2{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 225px;
+    }
+.l_3{
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 335px;
+    font-family: 'Montserrat', sans-serif;
+}    
+.p_3{
+    font-size: 11px;
+    word-spacing: 4px;
+    font-family: 'Montserrat', sans-serif;
+margin-left: 95px;
+margin-top: 20px;
+}
+
